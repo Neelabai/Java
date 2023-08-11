@@ -1,1 +1,1 @@
-echo "learing 4 started4"
+echo "learing 4 started"
